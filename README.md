@@ -30,3 +30,5 @@ Browse Products: View available products by categories, search for items, and fi
 Add to Cart: Select desired products and add them to the shopping cart for checkout.
 Checkout and Payment: Proceed to checkout, enter shipping details, and make payments via integrated payment methods.
 Order History: Registered users can view their order history and track shipment statuses.
+## Conclusion
+I already push it bug-fix typo branch
